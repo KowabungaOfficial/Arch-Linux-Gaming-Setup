@@ -1,4 +1,4 @@
-# Arch Linux Gaming Setup
+# <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/ArchLinuxLogo.png"> Arch Linux Gaming Setup
 
 # This is currently a work in progress! Currently moving to Arch
 
