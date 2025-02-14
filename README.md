@@ -60,7 +60,7 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 -----------------------------------------------------
 
 **Notes For Myself:**
-**(figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview, partitionmanager, kate, amd-ucode, mesa, lib32-mesa**
+**(figure out if this is already included when using ArchInstall) xorg-xwayland, gwenview, partitionmanager, amd-ucode, mesa, lib32-mesa**
 
 **ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
 
