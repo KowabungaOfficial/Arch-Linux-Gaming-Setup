@@ -69,6 +69,11 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
 
-<div align="center">CachyOS Dev Team
+<div align="center">CachyOS Dev Team 
   
-Nobara (Thomas Crider)</b></div>
+  https://cachyos.org/
+</b></div>  
+<div align="center">Nobara (Thomas Crider)
+
+https://nobaraproject.org/
+</b></div>
