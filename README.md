@@ -57,7 +57,7 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 6. sudo pacman -S mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode fontconfig lib32-fontconfig gst-plugin-pipewire
 7. sudo pacman -S gst-plugin-va gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good wine-mono
 
-(figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview, partitionmanager, kate
+(figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview, partitionmanager, kate, amd-ucode
 
 -----------------------------------------------------
 
