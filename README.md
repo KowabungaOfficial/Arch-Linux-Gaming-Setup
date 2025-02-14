@@ -17,14 +17,14 @@
 -----------------------------------------------------
 - **Second Step**
 
+1. Install LTS Kernel just in case (Here is a list of lts kernels: https://www.kernel.org/category/releases.html)
+-----------------------------------------------------
+- **Third Step**
+
 **Install These (Enables Cachyos Kernel, ROCm Support, and Mesa Vulkan):**
 1. yay -S linux-cachyos
 2. yay -S opencl-amd
 3. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
------------------------------------------------------
-- **Third Step**
-
-1. Install LTS Kernel just in case (Here is a list of lts kernels: https://www.kernel.org/category/releases.html)
 -----------------------------------------------------
 - **Fourth Step**
 
