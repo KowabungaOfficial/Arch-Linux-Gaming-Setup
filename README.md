@@ -66,3 +66,9 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 1. yay -S librewolf-bin mullvad-vpn-bin heroic-games-launcher-bin jdownloader2 protonplus rustdesk-bin xpadneo-dkms protontricks
 
 -----------------------------------------------------
+
+<div align="center"><b>SPECIAL THANKS TO:</b></div>
+
+<div align="center">CachyOS Dev Team
+  
+Nobara (Thomas Crider)</b></div>
