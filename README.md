@@ -8,7 +8,7 @@
 -----------------------------------------------------
 - **Main Step**
 
-**Enabling use of AUR Steps:**
+**Enabling use of AUR:**
 1. sudo pacman -Syu
 2. sudo pacman -S --needed base-devel git
 3. git clone https://aur.archlinux.org/yay.git
