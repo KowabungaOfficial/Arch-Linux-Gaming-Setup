@@ -72,9 +72,9 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 -----------------------------------------------------
 
-<div align="center"><b>Fixes</b></div>
+<div align="center"><b>Fixes Section</b></div>
 
-Fixes For Dualsense Controller Fix (In KDE, but might work with other Desktop Enivronments):
+**Dualsense Controller Actting as a mouse (In KDE, but might work with other Desktop Enivronments):**
 Go to “Input & Output” in settings then clicked the tab “Mouse & Touchpad”. 
 Select “Touchpad” and uncheck the box beside “Device enabled” at the top. 
 
