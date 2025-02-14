@@ -37,13 +37,13 @@
 1. Use performance mode in KDE power settings, fixes some issues.
 -----------------------------------------------------
 
-=========================================================================================================
+==========================================================================================
 <div align="center"><b>AppImages (AppImageLauncher)</b></div>
 Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/goverlay/releases
 
 Wemod: https://github.com/DeckCheatz/wemod-launcher
 
-=========================================================================================================
+==========================================================================================
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
@@ -57,10 +57,10 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 (figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview
 
-=========================================================================================================
+==========================================================================================
 
 <div align="center"><b>AUR (Yay)</b></div>
 
 1. yay -S librewolf-bin mullvad-vpn-bin heroic-games-launcher-bin jdownloader2 protonplus rustdesk-bin xpadneo-dkms protontricks
 
-=========================================================================================================
+==========================================================================================
