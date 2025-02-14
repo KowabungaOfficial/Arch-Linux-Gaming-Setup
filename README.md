@@ -82,3 +82,10 @@ ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINST
 
 https://nobaraproject.org/
 </b></div>
+
+<div align="center">Brodie Robertson
+
+https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA
+
+https://brodierobertson.xyz
+</b></div>
