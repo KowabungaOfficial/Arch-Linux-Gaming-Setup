@@ -37,7 +37,7 @@
 1. Use performance mode in KDE power settings, fixes some issues.
 -----------------------------------------------------
 
-<div align="center"><b>Needed Packages (Some Personal Gaming Packages as well)</b></div>
+<div align="center"><b>Needed Packages (Includes personal Gaming and other Packages as well)</b></div>
 
 -----------------------------------------------------
 <div align="center"><b>AppImages (AppImageLauncher)</b></div>
