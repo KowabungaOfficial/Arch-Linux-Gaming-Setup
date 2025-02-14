@@ -17,7 +17,7 @@
 -----------------------------------------------------
 - **Second Step**
 
-**Install These:**
+**Install These (Enables Cachyos Kernel, ROCm Support, and Mesa Vulkan):**
 1. yay -S linux-cachyos
 2. yay -S opencl-amd
 3. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
