@@ -49,7 +49,7 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
-1. sudo pacman -S appimagelauncher corectrl vlc phonon-qt5-vlc phonon-qt6-vlc steam mission-center winetricks
+1. sudo pacman -S appimagelauncher corectrl vlc phonon-qt5-vlc phonon-qt6-vlc steam mission-center winetricks pince-git
 2. sudo pacman -S gamescope mangohud lib32-mangohud inputplumber fastfetch tk libdecor lib32-libdecor kio-admin prismlauncher
 3. sudo pacman -S python-pip python-pipx python-setuptools python-virtualenv scx-scheds gstreamer lib32-gstreamer wine-staging wlroots
 4. sudo pacman -S alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw gst-plugins-base-libs lib32-gst-plugins-base-libs
