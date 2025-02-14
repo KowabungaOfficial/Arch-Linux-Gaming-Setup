@@ -49,15 +49,15 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
-1. sudo pacman -S appimagelauncher corectrl vlc phonon-qt5-vlc phonon-qt6-vlc partitionmanager steam mission-center winetricks
-2. sudo pacman -S kate gamescope mangohud lib32-mangohud inputplumber fastfetch tk libdecor lib32-libdecor kio-admin prismlauncher
+1. sudo pacman -S appimagelauncher corectrl vlc phonon-qt5-vlc phonon-qt6-vlc steam mission-center winetricks
+2. sudo pacman -S gamescope mangohud lib32-mangohud inputplumber fastfetch tk libdecor lib32-libdecor kio-admin prismlauncher
 3. sudo pacman -S python-pip python-pipx python-setuptools python-virtualenv scx-scheds gstreamer lib32-gstreamer wine-staging wlroots
 4. sudo pacman -S alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw gst-plugins-base-libs lib32-gst-plugins-base-libs
 5. sudo pacman -S lib32-gtk3 lib32-libjpeg-turbo ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo libva lib32-libva libxslt lib32-libxslt
 6. sudo pacman -S mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode fontconfig lib32-fontconfig gst-plugin-pipewire
 7. sudo pacman -S gst-plugin-va gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good wine-mono
 
-(figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview
+(figure out if this is already included when using ArchInstall) xorg-xwayland, dolphin, ark, gwenview, partitionmanager, kate
 
 -----------------------------------------------------
 
