@@ -64,6 +64,8 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 **ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
 
+add vkbasalt later
+
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
