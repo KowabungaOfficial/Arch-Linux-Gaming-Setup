@@ -68,6 +68,8 @@ figure out how to enable cachyos kernel
 look to these videos for inspiration and thank him below: https://youtu.be/xTqOKMJdP5c
 
 https://youtu.be/r6SUBZAO5SM
+
+Make your own Linux distro. maybe call it Sanctuary OS. Based off of this idea https://youtu.be/d3KfkKXRDzk
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
