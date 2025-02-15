@@ -17,8 +17,7 @@
 -----------------------------------------------------
 - **Second Step**
 
-1. Install LTS Kernel just in case (Here is a list of lts kernels: https://www.kernel.org/category/releases.html)
-2. For Pacman Just Do: sudo pacman -S linux-lts
+1. sudo pacman -S linux-lts
 -----------------------------------------------------
 - **Third Step**
 
