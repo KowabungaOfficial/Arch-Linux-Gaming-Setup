@@ -42,8 +42,6 @@
 <div align="center"><b>AppImages (AppImageLauncher)</b></div>
 Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/goverlay/releases
 
-Wemod: https://github.com/DeckCheatz/wemod-launcher
-
 -----------------------------------------------------
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
@@ -63,7 +61,7 @@ Wemod: https://github.com/DeckCheatz/wemod-launcher
 
 **ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
 
-add vkbasalt later
+add vkbasalt and wemodlauncher later
 
 -----------------------------------------------------
 
