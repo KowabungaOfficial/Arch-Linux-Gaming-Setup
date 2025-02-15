@@ -65,6 +65,9 @@ add vkbasalt and wemodlauncher later
 
 figure out how to enable cachyos kernel
 
+look to these videos for inspiration and thank him below: https://youtu.be/xTqOKMJdP5c
+
+https://youtu.be/r6SUBZAO5SM
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
