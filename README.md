@@ -63,6 +63,8 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 
 add vkbasalt and wemodlauncher later
 
+figure out how to enable cachyos kernel
+
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
