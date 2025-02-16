@@ -53,7 +53,7 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 5. sudo pacman -S lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva libxslt
 6. sudo pacman -S lib32-libxslt lib32-gtk3 lib32-libjpeg-turbo ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo alsa-plugins
 7. sudo pacman -S lib32-alsa-plugins giflib lib32-giflib glfw python-glfw gst-plugins-base-libs lib32-gst-plugins-base-libs
-8. sudo pacman -S python-setuptools python-virtualenv
+8. sudo pacman -S python-setuptools python-virtualenv appimagelauncher
 
 -----------------------------------------------------
 
@@ -89,7 +89,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
-sudo pacman -S appimagelauncher vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher
+sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher
 
 - Yay
 yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
