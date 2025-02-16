@@ -21,7 +21,7 @@
 -----------------------------------------------------
 - **Third Step**
 
-**Install These (Enables CachyOS Kernel and Mesa Vulkan):**
+**Install These (Enables CachyOS Kernel and Mesa Layers):**
 1. yay -S linux-cachyos linux-cachyos-headers
 2. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
 -----------------------------------------------------
@@ -62,7 +62,7 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 
 **ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
 
-add vkbasalt and wemodlauncher later
+wemodlauncher later
 
 
 look to these videos for inspiration and thank him below: https://youtu.be/xTqOKMJdP5c
@@ -77,6 +77,7 @@ add driving wheel drivers: https://youtu.be/HKaB5fAucTU
 <div align="center"><b>AUR (Yay)</b></div>
 
 1. yay -S librewolf-bin mullvad-vpn-bin heroic-games-launcher-bin jdownloader2 protonplus rustdesk-bin xpadneo-dkms protontricks
+2. yay -S vkbasalt lib32-vkbasalt 
 
 -----------------------------------------------------
 
@@ -89,6 +90,9 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 -----------------------------------------------------
 
+<div align="center"><b>Optional Section</b></div>
+
+-----------------------------------------------------
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
 
 <div align="center">CachyOS Dev Team 
