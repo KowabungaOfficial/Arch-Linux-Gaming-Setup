@@ -91,6 +91,7 @@ yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
 - Other
 
 https://github.com/DeckCheatz/wemod-launcher
+
 -----------------------------------------------------
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
 
