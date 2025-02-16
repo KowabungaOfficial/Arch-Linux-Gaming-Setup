@@ -89,6 +89,7 @@ sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-g
 yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
 
 - Other
+
 https://github.com/DeckCheatz/wemod-launcher
 -----------------------------------------------------
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
