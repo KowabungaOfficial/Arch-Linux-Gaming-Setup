@@ -42,8 +42,8 @@
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
-1. sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono goverlay jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless
-2. sudo pacman -S gamescope mangohud lib32-mangohud inputplumber tk libdecor lib32-libdecor scx-scheds wlroots python-pip python-pipx
+1. sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono goverlay gamescope mangohud lib32-mangohud
+2. sudo pacman -S inputplumber tk libdecor lib32-libdecor scx-scheds wlroots python-pip python-pipx jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless
 3. sudo pacman -S jre17-openjdk jre17-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va
 4. sudo pacman -S gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig
 5. sudo pacman -S lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva libxslt
