@@ -57,7 +57,8 @@ For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https
 
 add driving wheel drivers: https://youtu.be/HKaB5fAucTU
 
-CHECK ON THESE BELOW:
+<details>
+<summary>CHECK ON THESE!!!</summary>
 
 Audio:
 
@@ -132,6 +133,7 @@ lib32-libxdamage: 32 bit libxdamage Library
 lib32-libdrm: 32-bit Direct Rendering Manager library.
 lib32-zlib: 32 bit zlib library
 lib32-sdl2: 32 bit Simple DirectMedia Layer
+</details>
 
 -----------------------------------------------------
 
