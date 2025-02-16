@@ -64,7 +64,6 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 
 add vkbasalt and wemodlauncher later
 
-figure out how to enable cachyos kernel
 
 look to these videos for inspiration and thank him below: https://youtu.be/xTqOKMJdP5c
 
