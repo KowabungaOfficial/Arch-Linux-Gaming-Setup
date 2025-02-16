@@ -65,13 +65,10 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 wemodlauncher later
 
 
-look to these videos for inspiration and thank him below: https://youtu.be/xTqOKMJdP5c
-
-https://youtu.be/r6SUBZAO5SM
-
-Make your own Linux distro. maybe call it Sanctuary OS. Based off of this idea https://youtu.be/d3KfkKXRDzk
+For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https://youtu.be/d3KfkKXRDzk
 
 add driving wheel drivers: https://youtu.be/HKaB5fAucTU
+
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
@@ -91,6 +88,12 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 -----------------------------------------------------
 
 <div align="center"><b>Optional Section</b></div>
+
+- Pacman
+
+- Yay
+
+- Other
 
 -----------------------------------------------------
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
