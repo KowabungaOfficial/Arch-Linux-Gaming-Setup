@@ -17,7 +17,7 @@
 -----------------------------------------------------
 - **Second Step**
 
-1. sudo pacman -S linux-lts
+1. sudo pacman -S linux-lts linux-lts-headers
 -----------------------------------------------------
 - **Third Step**
 
