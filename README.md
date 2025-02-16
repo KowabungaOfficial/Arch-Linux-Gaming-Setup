@@ -73,8 +73,7 @@ add driving wheel drivers: https://youtu.be/HKaB5fAucTU
 
 <div align="center"><b>AUR (Yay)</b></div>
 
-1. yay -S librewolf-bin mullvad-vpn-bin heroic-games-launcher-bin jdownloader2 protonplus rustdesk-bin xpadneo-dkms protontricks
-2. yay -S vkbasalt lib32-vkbasalt 
+1. yay -S heroic-games-launcher-bin protonplus xpadneo-dkms protontricks vkbasalt lib32-vkbasalt
 
 -----------------------------------------------------
 
@@ -87,11 +86,12 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 -----------------------------------------------------
 
-<div align="center"><b>Optional Section</b></div>
+<div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
 
 - Yay
+yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
 
 - Other
 
