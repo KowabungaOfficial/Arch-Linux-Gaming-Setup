@@ -53,10 +53,6 @@
 **Notes For Myself:**
 **(figure out if this is already included when using ArchInstall) xorg-xwayland, lib32-mesa**
 
-**ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
-
-wemodlauncher later
-
 For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https://youtu.be/d3KfkKXRDzk
 
 add driving wheel drivers: https://youtu.be/HKaB5fAucTU
