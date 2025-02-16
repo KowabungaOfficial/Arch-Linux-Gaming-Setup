@@ -81,9 +81,11 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
+
 sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher gwenview partitionmanager
 
 - Yay
+
 yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
 
 - Other
