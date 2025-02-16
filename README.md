@@ -46,7 +46,7 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
-1. sudo pacman -S steam wine-staging winetricks wine-mono jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless
+1. sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless
 2. sudo pacman -S gamescope mangohud lib32-mangohud inputplumber tk libdecor lib32-libdecor scx-scheds wlroots python-pip python-pipx
 3. sudo pacman -S jre17-openjdk jre17-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va
 4. sudo pacman -S gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig
@@ -58,12 +58,11 @@ Goverlay Beta (AppImage Beta, more up to date): https://github.com/benjamimgois/
 -----------------------------------------------------
 
 **Notes For Myself:**
-**(figure out if this is already included when using ArchInstall) xorg-xwayland, gwenview, partitionmanager, amd-ucode, mesa, lib32-mesa**
+**(figure out if this is already included when using ArchInstall) xorg-xwayland, lib32-mesa**
 
 **ALSO CHECK TO SEE WHAT NEEDS TO BE INSTALLED ON THE AMD SIDE WHEN USING ARCHINSTALL**
 
 wemodlauncher later
-
 
 For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https://youtu.be/d3KfkKXRDzk
 
@@ -89,7 +88,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
-sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher
+sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher gwenview partitionmanager
 
 - Yay
 yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin
