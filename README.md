@@ -52,7 +52,12 @@
 
 **Notes For Myself:**
 
-For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https://youtu.be/d3KfkKXRDzk
+For inspiration: 
+
+https://youtu.be/xTqOKMJdP5c 
+https://youtu.be/r6SUBZAO5SM 
+https://youtu.be/d3KfkKXRDzk
+https://www.youtube.com/watch?v=lOIdc99nZzg
 
 add driving wheel drivers: https://youtu.be/HKaB5fAucTU
 
