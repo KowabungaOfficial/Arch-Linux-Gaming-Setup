@@ -30,6 +30,7 @@
 **Enabling Arch Update addon:**
 1. sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2
 2. yay -S arch-update
+3. arch-update --tray --enable
 -----------------------------------------------------
 - **Final Step**
 
