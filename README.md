@@ -46,12 +46,11 @@
 2. sudo pacman -S jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base
 3. sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva
 4. sudo pacman -S libxslt lib32-libxslt lib32-gtk3 lib32-libjpeg-turbo ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw
-5. sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv
+5. sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa xorg-xwayland
 
 -----------------------------------------------------
 
 **Notes For Myself:**
-**(figure out if this is already included when using ArchInstall) xorg-xwayland, lib32-mesa**
 
 For inspiration: https://youtu.be/xTqOKMJdP5c https://youtu.be/r6SUBZAO5SM https://youtu.be/d3KfkKXRDzk
 
