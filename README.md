@@ -85,7 +85,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - Pacman
 
-sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher gwenview partitionmanager
+sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center pince-git fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent
 
 - Yay
 
