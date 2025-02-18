@@ -37,10 +37,11 @@ linux   /vmlinuz-linux-cachyos
 
 initrd  /initramfs-linux-cachyos.img
 
+
 **Set CachyOS Kernel As Default:**
 1. Go to /boot/loader/ and edit loader.conf to add this (add after timeout 3):
 
-<div align="center">default arch-cachyos</div>
+default arch-cachyos
 
 -----------------------------------------------------
 - **Final Step (If you have multiple game drives or other drives)**
