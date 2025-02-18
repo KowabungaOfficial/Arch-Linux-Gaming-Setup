@@ -116,32 +116,30 @@ https://github.com/DeckCheatz/wemod-launcher
 <div align="center"><b>SPECIAL THANKS TO:</b></div>
 
 
-
 <div align="center">
    <img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/cachyoslogo.png" style="vertical-align: middle; margin-right: 0px; height: 30px;">
-  CachyOS Dev Team 
+<b>CachyOS Dev Team</b>
   
-  https://cachyos.org/
+https://cachyos.org/
 </b></div>  
 <div align="center">
 <img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/nobaralogo.png" style="vertical-align: middle; margin-right: 0px; height: 25px;">
-Nobara (Thomas Crider)
+<b>Nobara (Thomas Crider)</b>
 
 https://nobaraproject.org/
 </b></div>
 
 <div align="center">
 <img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/brodierobertsonlogo.png" style="vertical-align: middle; margin-right: 0px; height: 30px;">
-Brodie Robertson
+<b>Brodie Robertson</b>
 
 https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA
 
 https://brodierobertson.xyz
 </b></div>
-
 <div align="center">
 <img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/archupdatelogo.png" style="vertical-align: middle; margin-right: 0px; height: 27px;">
-Robin Candau (Antiz96) 
+<b>Robin Candau (Antiz96)</b> 
 
 https://antiz.fr/
 
