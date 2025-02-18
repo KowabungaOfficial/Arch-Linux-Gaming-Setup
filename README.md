@@ -51,7 +51,7 @@ initrd  /initramfs-linux-cachyos.img
 
 Example:
 
-<img style="" src="https://kowabungaofficial.github.io/misc/Arch-Linux-Gaming-Setup/AUTOMOUNTDRIVE.png">
+<img style="" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/misc/AUTOMOUNTDRIVE.png">
 
 -----------------------------------------------------
 
