@@ -98,6 +98,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
+
 `sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
 **Enabling Arch Update addon:**
