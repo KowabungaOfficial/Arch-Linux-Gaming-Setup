@@ -37,7 +37,7 @@
 1. Run this in your ternminal: lsblk -f
 2. Keep terminal open and look at the following in step 3
 3. UUID of your drive in "UUID" section, then where it is mounted in "MOUNTPOINTS" section, Format type in "FSTYPE"
-4. add nofail and 0 0 at the end, nofail prevents drive from interupting boot process
+4. Add nofail and 0 0 at the end, nofail prevents drive from interrupting the boot process
 5. As for # add it and you can name it to whatever you want to indentify the drive
 
 Example:
