@@ -72,7 +72,7 @@ Example:
 
 -----------------------------------------------------
 
-**Install and Enable Bluetooth (Optional):**
+**Install and Enable Bluetooth:**
 
 1. `sudo pacman -S bluedevil bluez bluez-utils qt5-connectivity qt6-connectivity`
 2. `sudo systemctl enable bluetooth.service`
