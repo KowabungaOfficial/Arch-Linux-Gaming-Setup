@@ -36,6 +36,7 @@ title   Arch Linux (CachyOS)
 linux   /vmlinuz-linux-cachyos
 
 initrd  /initramfs-linux-cachyos.img
+
 -----------------------------------------------------
 - **Fourth Step**
 **Set CachyOS Kernel As Default:**
