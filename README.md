@@ -1,4 +1,4 @@
-# <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/ArchLinuxLogo.png"> Arch Linux Gaming Setup
+# <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/ArchLinuxLogo.png"> Arch Linux Gaming Setup
 
 **IMPORTANT: RUN THESE FIRST ON SYSTEM STARTUP (Booting into KDE)**
 
@@ -51,7 +51,7 @@ initrd  /initramfs-linux-cachyos.img
 
 Example:
 
-<img style="" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/AUTOMOUNTDRIVE.png">
+<img style="" src="https://kowabungaofficial.github.io/misc/Arch-Linux-Gaming-Setup/AUTOMOUNTDRIVE.png">
 
 -----------------------------------------------------
 
