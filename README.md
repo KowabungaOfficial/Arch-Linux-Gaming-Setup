@@ -32,7 +32,9 @@
 4. Edit it to look like this (KEEP EVERYTHING THE SAME AFTER "initrd" SECTION!):
 
 title   Arch Linux (CachyOS)
+
 linux   /vmlinuz-linux-cachyos
+
 initrd  /initramfs-linux-cachyos.img
 
 -----------------------------------------------------
