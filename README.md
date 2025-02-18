@@ -111,9 +111,8 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 - **Other**
 
 https://github.com/DeckCheatz/wemod-launcher
-
------------------------------------------------------
-<div align="center"><b>SPECIAL THANKS TO:</b></div>
+<br> <br> <br>
+## <div align="center"><b>SPECIAL THANKS TO:</b></div>
 
 
 <div align="center">
