@@ -1,6 +1,7 @@
 # <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/ArchLinuxLogo.png"> Arch Linux Gaming Setup
 
-**IMPORTANT: RUN THESE FIRST ON SYSTEM STARTUP (Booting into KDE)**
+> [!IMPORTANT]
+> Run These When Booting Into Desktop Environment (i.e. KDE)
 
 -----------------------------------------------------
 - **Main Step**
