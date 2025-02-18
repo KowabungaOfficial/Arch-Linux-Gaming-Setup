@@ -9,45 +9,44 @@
 - **Main Step**
 
 **Enabling use of AUR:**
-1. sudo pacman -Syu
-2. sudo pacman -S --needed base-devel git
-3. git clone https://aur.archlinux.org/yay.git
-4. cd yay
-5. makepkg -si
+1. `sudo pacman -Syu`
+2. `sudo pacman -S --needed base-devel git`
+3. `git clone https://aur.archlinux.org/yay.git`
+4. `cd yay`
+5. `makepkg -si`
 -----------------------------------------------------
 - **Second Step**
 
-1. sudo pacman -S linux-lts linux-lts-headers
+1. `sudo pacman -S linux-lts linux-lts-headers`
 -----------------------------------------------------
 - **Third Step**
 
 **Install These (Enables CachyOS Kernel and Mesa Layers):**
-1. yay -S linux-cachyos linux-cachyos-headers
-2. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
+1. `yay -S linux-cachyos linux-cachyos-headers`
+2. `sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers`
 
 **CachyOS Kernel Setup Guide:**
-1. Go to /boot/loader/entries/ and find the default linux.conf, not the fallback one.
+1. Go to _/boot/loader/entries/_ and find the default linux.conf, not the fallback one.
 2. Copy that file and paste it on your desktop
 3. Now edit the name to arch-cachyos.conf
 4. Edit it to look like this (KEEP EVERYTHING THE SAME AFTER "initrd" SECTION!):
-
+```
 title   Arch Linux (CachyOS)
-
 linux   /vmlinuz-linux-cachyos
-
 initrd  /initramfs-linux-cachyos.img
+```
 
 -----------------------------------------------------
 - **Fourth Step**
 **Set CachyOS Kernel As Default:**
-1. Go to /boot/loader/ and edit loader.conf to add this (add after timeout 3):
+1. Go to _/boot/loader/_ and edit loader.conf to add this (add after timeout 3):
 
-default arch-cachyos
+`default arch-cachyos`
 
 -----------------------------------------------------
 - **Final Step (If you have multiple game drives or other drives)**
 
-1. Run this in your ternminal: lsblk -f
+1. Run this in your ternminal: `lsblk -f`
 2. open fstab file located in etc folder
 4. Look at UUID of your drive in "UUID" section, where your drives are mounted "MOUNTPOINTS" section, Format type in "FSTYPE"
 5. As for # add it and you can name it to whatever you want to indentify the drive
@@ -65,25 +64,25 @@ Example:
 
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
-1. sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono goverlay gamescope mangohud lib32-mangohud inputplumber tk libdecor lib32-libdecor scx-scheds python-pip python-pipx
-2. sudo pacman -S jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base
-3. sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva
-4. sudo pacman -S libxslt lib32-libxslt lib32-gtk3 ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo lib32-libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw
-5. sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad
+1. `sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono goverlay gamescope mangohud lib32-mangohud inputplumber tk libdecor lib32-libdecor scx-scheds python-pip python-pipx`
+2. `sudo pacman -S jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base`
+3. `sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva`
+4. `sudo pacman -S libxslt lib32-libxslt lib32-gtk3 ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo lib32-libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw`
+5. `sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad`
 
 -----------------------------------------------------
 
-**Bluetooth Install:**
+**Install and Enable Bluetooth (Optional):**
 
-1. sudo pacman -S bluedevil bluez bluez-utils qt5-connectivity qt6-connectivity
-2. sudo systemctl enable bluetooth.service
-3. sudo systemctl start bluetooth.service
+1. `sudo pacman -S bluedevil bluez bluez-utils qt5-connectivity qt6-connectivity`
+2. `sudo systemctl enable bluetooth.service`
+3. `sudo systemctl start bluetooth.service`
 
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
 
-1. yay -S heroic-games-launcher-bin protonplus xpadneo-dkms protontricks vkbasalt lib32-vkbasalt faudio
+1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms protontricks vkbasalt lib32-vkbasalt faudio`
 
 -----------------------------------------------------
 
@@ -99,17 +98,16 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
 - Pacman
-
-sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent
+`sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
 **Enabling Arch Update addon:**
-1. sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2
-2. yay -S arch-update
-3. arch-update --tray --enable
+1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
+2. `yay -S arch-update`
+3. `arch-update --tray --enable`
 
 - Yay
 
-yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin pince
+`yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin pince`
 
 - Other
 
