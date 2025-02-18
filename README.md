@@ -97,7 +97,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
-- Pacman
+- **Pacman**
 
 `sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
@@ -106,11 +106,11 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 2. `yay -S arch-update`
 3. `arch-update --tray --enable`
 
-- Yay
+- **Yay**
 
 `yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin pince`
 
-- Other
+- **Other**
 
 https://github.com/DeckCheatz/wemod-launcher
 
