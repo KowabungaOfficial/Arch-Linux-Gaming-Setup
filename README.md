@@ -36,8 +36,8 @@ title   Arch Linux (CachyOS)
 linux   /vmlinuz-linux-cachyos
 
 initrd  /initramfs-linux-cachyos.img
-
-
+-----------------------------------------------------
+- **Fourth Step**
 **Set CachyOS Kernel As Default:**
 1. Go to /boot/loader/ and edit loader.conf to add this (add after timeout 3):
 
