@@ -32,9 +32,18 @@
 2. yay -S arch-update
 3. arch-update --tray --enable
 -----------------------------------------------------
-- **Final Step**
+- **Final Step (If you have multiple game drives or other drives)**
 
-1. Use performance mode in KDE power settings, fixes some issues.
+1. Run this in your ternminal: lsblk -f
+2. Keep terminal open and look at the following in step 3
+3. UUID of your drive in "UUID" section, then where it is mounted in "MOUNTPOINTS" section, Format type in "FSTYPE"
+4. add nofail and 0 0 at the end, nofail prevents drive from interupting boot process
+5. Example: UUID=27d6664c-2008-4943-9c1d-594826a0ef97 /run/media/username/GMEONE ext4 nofail 0 0
+6. As for # add it and you can name it to whatever you want to indentify the drive
+7. Example:
+"# GMEONE
+UUID=27d6664c-2008-4943-9c1d-594826a0ef97 /run/media/kwbnga/GMEONE ext4 nofail 0 0"
+
 -----------------------------------------------------
 
 <div align="center"><b>Gaming Packages</b></div>
