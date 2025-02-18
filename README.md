@@ -60,19 +60,11 @@ Example:
 
 -----------------------------------------------------
 
-**Notes For Myself:**
+**Bluetooth Install:**
 
-For inspiration: 
-
-https://youtu.be/xTqOKMJdP5c 
-
-https://youtu.be/r6SUBZAO5SM 
-
-https://youtu.be/d3KfkKXRDzk
-
-https://www.youtube.com/watch?v=lOIdc99nZzg
-
-add driving wheel drivers: https://youtu.be/HKaB5fAucTU
+1. sudo pacman -S bluedevil bluez bluez-utils qt5-connectivity qt6-connectivity
+2. sudo systemctl enable bluetooth.service
+3. sudo systemctl start bluetooth.service
 
 -----------------------------------------------------
 
