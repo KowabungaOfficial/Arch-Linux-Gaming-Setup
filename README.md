@@ -130,7 +130,7 @@ https://nobaraproject.org/
 </b></div>
 
 <div align="center">
-<img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/brodierobertsonlogo.png" style="vertical-align: middle; margin-right: 0px; height: 25px;">
+<img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/brodierobertsonlogo.png" style="vertical-align: middle; margin-right: 0px; height: 30px;">
 Brodie Robertson
 
 https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA
