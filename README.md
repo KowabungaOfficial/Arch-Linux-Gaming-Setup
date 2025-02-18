@@ -35,10 +35,11 @@
 - **Final Step (If you have multiple game drives or other drives)**
 
 1. Run this in your ternminal: lsblk -f
-2. Keep terminal open and look at the following in step 3
-3. UUID of your drive in "UUID" section, then where it is mounted in "MOUNTPOINTS" section, Format type in "FSTYPE"
-4. Add nofail and 0 0 at the end, nofail prevents drive from interrupting the boot process
-5. As for # add it and you can name it to whatever you want to indentify the drive
+2. open fstab file located in etc folder
+3. Keep terminal open and look at the following in step 3
+4. UUID of your drive in "UUID" section, then where it is mounted in "MOUNTPOINTS" section, Format type in "FSTYPE"
+5. Add nofail and 0 0 at the end, nofail prevents drive from interrupting the boot process
+6. As for # add it and you can name it to whatever you want to indentify the drive
 
 Example:
 
