@@ -25,13 +25,6 @@
 1. yay -S linux-cachyos linux-cachyos-headers
 2. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
 -----------------------------------------------------
-- **Fourth Step**
-
-**Enabling Arch Update addon:**
-1. sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2
-2. yay -S arch-update
-3. arch-update --tray --enable
------------------------------------------------------
 - **Final Step (If you have multiple game drives or other drives)**
 
 1. Run this in your ternminal: lsblk -f
@@ -88,6 +81,11 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 - Pacman
 
 sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent
+
+**Enabling Arch Update addon:**
+1. sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2
+2. yay -S arch-update
+3. arch-update --tray --enable
 
 - Yay
 
