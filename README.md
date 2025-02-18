@@ -139,7 +139,7 @@ https://brodierobertson.xyz
 </b></div>
 
 <div align="center">
-<img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/archupdatelogo.png" style="vertical-align: middle; margin-right: 0px; height: 30px;">
+<img src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/archupdatelogo.png" style="vertical-align: middle; margin-right: 0px; height: 27px;">
 Robin Candau (Antiz96) 
 
 https://antiz.fr/
