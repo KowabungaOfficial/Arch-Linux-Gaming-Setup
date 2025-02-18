@@ -24,6 +24,17 @@
 **Install These (Enables CachyOS Kernel and Mesa Layers):**
 1. yay -S linux-cachyos linux-cachyos-headers
 2. sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers
+
+**CachyOS Kernel Setup Guide:**
+1. Go to /boot/loader/entries/ and find the default linux.conf, not the fallback one.
+2. Copy that file and paste it on your desktop
+3. Now edit the name to arch-cachyos.conf
+4. Edit it to look like this (KEEP EVERYTHING THE SAME AFTER "initrd" SECTION!):
+
+title   Arch Linux (CachyOS)
+linux   /vmlinuz-linux-cachyos
+initrd  /initramfs-linux-cachyos.img
+
 -----------------------------------------------------
 - **Final Step (If you have multiple game drives or other drives)**
 
