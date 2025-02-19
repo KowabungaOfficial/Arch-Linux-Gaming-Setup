@@ -33,7 +33,7 @@ title   Arch Linux (CachyOS)
 linux   /vmlinuz-linux-cachyos
 initrd  /initramfs-linux-cachyos.img
 ```
-
+5. Now copy arch-cachy.conf to _/boot/loader/entries/_
 -----------------------------------------------------
 - **Fourth Step**
 
