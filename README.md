@@ -42,7 +42,7 @@ initrd  /initramfs-linux-cachyos.img
 `default arch-cachyos`
 
 -----------------------------------------------------
-- **Final Step (Passwordless Automount) (If you have multiple game drives or other drives)**
+- **Final Step (No Password Automount) (If you have multiple game drives or other drives)**
 
 1. Run this in your ternminal: `lsblk -f`
 2. open fstab file located in etc folder
