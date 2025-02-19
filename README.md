@@ -38,9 +38,13 @@ initrd  /initramfs-linux-cachyos.img
 - **Fourth Step**
 
 **Set CachyOS Kernel As Default:**
-1. Go to _/boot/loader/_ and edit loader.conf to add this (add after timeout 3):
+1. Go to _/boot/loader/_ and edit loader.conf to add this:
 
 `default arch-cachyos`
+
+2. Then edit timeout 3 to this (waits 5 seconds before booting into kernel):
+
+`timeout 5`
 
 -----------------------------------------------------
 - **Final Step (No Password Automount)**
