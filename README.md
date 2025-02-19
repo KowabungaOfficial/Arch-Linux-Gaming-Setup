@@ -36,6 +36,7 @@ initrd  /initramfs-linux-cachyos.img
 
 -----------------------------------------------------
 - **Fourth Step**
+
 **Set CachyOS Kernel As Default:**
 1. Go to _/boot/loader/_ and edit loader.conf to add this (add after timeout 3):
 
