@@ -108,7 +108,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Yay**
 
-`yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin pince`
+1. `yay -S librewolf-bin mullvad-vpn-bin jdownloader2 rustdesk-bin pince`
 
 - **Other**
 
