@@ -42,9 +42,9 @@ initrd  /initramfs-linux-cachyos.img
 
 `timeout 5`
 
-2. Add this after the timeout 5 line:
+2. Add this before the timeout 5 line:
 
-`default arch-cachyos`
+`default arch-cachyos.conf`
 
 -----------------------------------------------------
 - **Final Step (No Password Automount)**
