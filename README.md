@@ -87,7 +87,7 @@ Example:
 
 <div align="center"><b>AUR (Yay)</b></div>
 
-1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms protontricks vkbasalt lib32-vkbasalt faudio`
+1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms vkbasalt lib32-vkbasalt faudio`
 
 -----------------------------------------------------
 
