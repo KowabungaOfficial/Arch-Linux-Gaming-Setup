@@ -70,7 +70,7 @@ Example:
 <div align="center"><b>Official Arch Repo (Pacman)</b></div>
 
 1. `sudo pacman -S amd-ucode steam wine-staging winetricks wine-mono goverlay gamescope mangohud lib32-mangohud inputplumber tk libdecor lib32-libdecor scx-scheds python-pip python-pipx`
-2. `sudo pacman -S jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base`
+2. `sudo pacman -S jre-openjdk gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base`
 3. `sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva`
 4. `sudo pacman -S libxslt lib32-libxslt lib32-gtk3 ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo lib32-libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw`
 5. `sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad adobe-source-han-sans-jp-fonts adobe-source-han-sans-cn-fonts adobe-source-han-sans-hk-fonts adobe-source-han-sans-kr-fonts adobe-source-han-sans-otc-fonts adobe-source-han-sans-tw-fonts adobe-source-sans-fonts`
