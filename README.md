@@ -73,7 +73,7 @@ Example:
 2. `sudo pacman -S jre-openjdk jre-openjdk-headless jre21-openjdk jre21-openjdk-headless jre11-openjdk jre11-openjdk-headless gstreamer lib32-gstreamer gst-plugin-va gst-plugins-base lib32-gst-plugins-base`
 3. `sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools gamemode lib32-gamemode libva lib32-libva`
 4. `sudo pacman -S libxslt lib32-libxslt lib32-gtk3 ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo lib32-libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw python-glfw`
-5. `sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad`
+5. `sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad adobe-source-han-sans-jp-fonts adobe-source-han-sans-cn-fonts adobe-source-han-sans-hk-fonts adobe-source-han-sans-kr-fonts adobe-source-han-sans-otc-fonts adobe-source-han-sans-tw-fonts adobe-source-sans-fonts`
 
 -----------------------------------------------------
 
@@ -104,7 +104,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Pacman**
 
-1. `sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent adobe-source-han-sans-jp-fonts adobe-source-han-sans-cn-fonts adobe-source-han-sans-hk-fonts adobe-source-han-sans-kr-fonts adobe-source-han-sans-otc-fonts adobe-source-han-sans-tw-fonts adobe-source-sans-fonts`
+1. `sudo pacman -S vlc phonon-qt5-vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
 **Enabling Arch Update addon:**
 1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
