@@ -13,7 +13,7 @@
 4. `cd yay`
 5. `makepkg -si`
 -----------------------------------------------------
-- **Second Step**
+- **Second Step (Backup Kernels)**
 
 1. `sudo pacman -S linux-lts linux-lts-headers`
 -----------------------------------------------------
