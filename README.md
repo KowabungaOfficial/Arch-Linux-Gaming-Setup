@@ -71,6 +71,13 @@ Example:
 [multilib]
 Include = /etc/pacman.d/mirrorlist
 ```
+>(Optional Section) 
+
+[Enables Color and Pacman Video Game Loading/Downloading Bar In Terminal]
+
+3. In Misc options section remove # before color
+4. Add ILoveCandy after CheckSpace
+
 -----------------------------------------------------
 <div align="center"><b>Gaming Packages</b></div>
 
