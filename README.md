@@ -47,7 +47,7 @@ initrd  /initramfs-linux-cachyos.img
 `default arch-cachyos.conf`
 
 -----------------------------------------------------
-- **Final Step (No Password Automount HDD's/SSD's)**
+- **Fourth Step (No Password Automount HDD's/SSD's)**
 
 >For when you have multiple game drives or other drives
 
@@ -63,6 +63,15 @@ Example:
 
 -----------------------------------------------------
 
+- **Final Step**
+
+1. Edit pacman.conf in `/etc/`
+2. Find the [multilib] section and remove the # from the two lines:
+```
+[multilib]
+Include = /etc/pacman.d/mirrorlist
+```
+-----------------------------------------------------
 <div align="center"><b>Gaming Packages</b></div>
 
 -----------------------------------------------------
