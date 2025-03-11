@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Run These When Booting Into Desktop Environment (i.e. KDE)
 > 
-> (I Don't Include Gamemode Because Of Performance Related Issues. i.e. Stutters & FPS Loss In Some Games)
+> (I Don't Include Feral Gamemode Because Of Performance Related Issues. i.e. Stutters & FPS Loss In Some Games)
 
 -----------------------------------------------------
 - **Main Step**
