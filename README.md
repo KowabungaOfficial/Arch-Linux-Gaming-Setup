@@ -2,6 +2,7 @@
 
 > [!IMPORTANT]
 > Run These When Booting Into Desktop Environment (i.e. KDE)
+> 
 > (I Don't Include Gamemode because of performance related issues. i.e. stutters and fps loss in some games)
 
 -----------------------------------------------------
