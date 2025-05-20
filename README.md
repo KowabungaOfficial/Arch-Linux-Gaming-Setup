@@ -92,7 +92,7 @@ Include = /etc/pacman.d/mirrorlist
 3. `sudo pacman -S gst-plugins-good lib32-gst-plugins-good gst-plugin-pipewire fontconfig lib32-fontconfig mpg123 lib32-mpg123 ttf-liberation vulkan-tools libva lib32-libva`
 4. `sudo pacman -S libxslt lib32-libxslt lib32-gtk3 ocl-icd lib32-ocl-icd openal lib32-openal libjpeg-turbo lib32-libjpeg-turbo alsa-plugins lib32-alsa-plugins giflib lib32-giflib glfw lib32-pipewire`
 5. `sudo pacman -S gst-plugins-base-libs lib32-gst-plugins-base-libs python-setuptools python-virtualenv lib32-mesa dosfstools dolphin-plugins unrar 7zip gst-plugins-bad adobe-source-han-sans-jp-fonts adobe-source-han-sans-cn-fonts adobe-source-han-sans-hk-fonts`
-6. `sudo pacman -S adobe-source-han-sans-kr-fonts adobe-source-han-sans-otc-fonts adobe-source-han-sans-tw-fonts adobe-source-sans-fonts ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols-mono` 
+6. `sudo pacman -S adobe-source-han-sans-kr-fonts adobe-source-han-sans-otc-fonts adobe-source-han-sans-tw-fonts adobe-source-sans-fonts ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols-mono ffmpegthumbs kdegraphics-thumbnailers` 
 
 -----------------------------------------------------
 
