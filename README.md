@@ -123,7 +123,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Pacman**
 
-1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
+1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent sudo pacman cups cups-pdf system-config-printer avahi nss-mdns`
 
 **Enabling Arch Update addon:**
 1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
