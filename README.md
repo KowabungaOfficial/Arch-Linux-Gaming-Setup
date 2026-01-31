@@ -123,7 +123,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Pacman**
 
-1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent sudo pacman cups cups-pdf system-config-printer avahi nss-mdns`
+1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent sudo pacman cups cups-pdf system-config-printer avahi nss-mdns hplip gutenprint foomatic-db foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds foomatic-db-engine foomatic-filters foomatic-db-gutenprint-ppds splix cups-filters ghostscript gsfonts ipp-usb`
 
 **Enabling Arch Update addon:**
 1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
@@ -132,7 +132,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Yay**
 
-1. `yay -S mullvad-vpn-bin jdownloader2 rustdesk-bin pince floorp-bin`
+1. `yay -S mullvad-vpn-bin jdownloader2 rustdesk-bin pince floorp-bin epson-inkjet-printer-escpr epson-inkjet-printer-escpr2 hplip-plugin cnijfilter2 brother-dcp7065dn brother-hll2340dw brother-mfc7360n brother-dcp1610w brother-hl1210w`
 
 - **Other**
 
