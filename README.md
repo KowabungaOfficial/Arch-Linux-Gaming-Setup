@@ -121,9 +121,11 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
-- **Pacman (Power Profiles Daemon Included For Laptops)**
+- **Pacman (Audio Fix and Power Profiles Daemon Included For Laptops)**
 
 1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent sudo pacman cups cups-pdf system-config-printer avahi nss-mdns hplip gutenprint foomatic-db foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds foomatic-db-engine foomatic-filters foomatic-db-gutenprint-ppds splix cups-filters ghostscript gsfonts ipp-usb power-profiles-daemon`
+
+2. `sudo pacman -S --needed sof-firmware alsa-firmware alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber plasma-pa pavucontrol linux-firmware`
 
 **Enabling Arch Update addon:**
 1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
