@@ -136,7 +136,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Yay**
 
-1. `yay -S mullvad-vpn-bin jdownloader2 rustdesk-bin pince floorp-bin harmony2`
+1. `yay -S mullvad-vpn-bin jdownloader2 rustdesk-bin floorp-bin harmony2`
    
 2 (Laptops Only). `yay -S alsa-ucm-conf-git epson-inkjet-printer-escpr epson-inkjet-printer-escpr2 cnijfilter2 brother-dcp7065dn brother-hll2340dw brother-mfc7360n brother-dcp1610w brother-hl1210w`
 
