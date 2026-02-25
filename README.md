@@ -121,7 +121,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 <div align="center"><b>Optional Section (Mostly Packages I Use)</b></div>
 
-- **Pacman (Audio Fix and Power Profiles Daemon Included For Laptops)**
+- **Pacman**
 
 1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
