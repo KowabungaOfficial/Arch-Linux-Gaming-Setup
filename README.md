@@ -55,7 +55,8 @@ initrd  /initramfs-linux-cachyos.img
 
 1. Run this in your ternminal: `lsblk -f`
 2. open fstab file located in etc folder
-4. Look at UUID of your drive in "UUID" section, where your drives are mounted "MOUNTPOINTS" section, Format type in "FSTYPE"
+3. In the console take note of the UUID of your drive in "UUID" section, and where your drives are mounted in the "MOUNTPOINTS" section, and the Format type in "FSTYPE"
+4. open fstab file located in etc folder
 5. As for # add it and you can name it to whatever you want to indentify the drive
 6. See example bellow to see what it will look like
 
