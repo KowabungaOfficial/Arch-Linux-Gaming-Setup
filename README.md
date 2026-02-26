@@ -53,7 +53,7 @@ initrd  /initramfs-linux-cachyos.img
 
 >For when you have multiple game drives or other drives
 
-1. Run this in your ternminal: lsblk -f
+1. Run this in your terminal: lsblk -f
 2. In the console take note of the UUID of your drive in "UUID" section, and where your drives are mounted in the "MOUNTPOINTS" section, and the Format type in "FSTYPE"
 3. open fstab file located in etc folder
 4. Create a folder under /mnt that is the same name as the drive under the "LABEL" section:
