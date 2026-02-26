@@ -72,10 +72,10 @@ sudo chown joetech:joetech /mnt/GMEBCKUP
 ```
 Example:
 # GMEONE - Gaming NVMe SSD
-UUID=fd053d39-33b0-444f-9515-a33d6e34790b  /mnt/GMEONE   ext4  defaults,nofail  0  2
+UUID=fd053d39-33b0-444f-9515-a33d6e34790b  /mnt/GMEONE   ext4  defaults,nofail  0  0
 
 # GMEBCKUP - Backup Drive
-UUID=adbdb4dc-b287-47e2-adfe-4c4f0ecd3e2a  /mnt/GMEBCKUP ext4  defaults,nofail  0  2
+UUID=adbdb4dc-b287-47e2-adfe-4c4f0ecd3e2a  /mnt/GMEBCKUP ext4  defaults,nofail  0  0
 ```
 7. After saving the file, test before rebooting:
 ```
