@@ -53,16 +53,34 @@ initrd  /initramfs-linux-cachyos.img
 
 >For when you have multiple game drives or other drives
 
-1. Run this in your ternminal: `lsblk -f`
-2. open fstab file located in etc folder
-3. In the console take note of the UUID of your drive in "UUID" section, and where your drives are mounted in the "MOUNTPOINTS" section, and the Format type in "FSTYPE"
-4. open fstab file located in etc folder
-5. As for # add it and you can name it to whatever you want to indentify the drive
-6. See example bellow to see what it will look like
-
+1. Run this in your ternminal: lsblk -f
+2. In the console take note of the UUID of your drive in "UUID" section, and where your drives are mounted in the "MOUNTPOINTS" section, and the Format type in "FSTYPE"
+3. open fstab file located in etc folder
+4. Create a folder under /mnt that is the same name as the drive under the "LABEL" section:
+```
 Example:
+sudo mkdir -p /mnt/GMEONE
+sudo mkdir -p /mnt/GMEBCKUP
+```
+5. Type these commands in so you don't have to have sudo when mounted. **Your username goes before and after the ":"**
+```
+Example:
+sudo chown joetech:joetech /mnt/GMEONE
+sudo chown joetech:joetech /mnt/GMEBCKUP
+```
+6. As for # add it and you can name it to whatever you want to indentify the drive
+```
+Example:
+# GMEONE - Gaming NVMe SSD
+UUID=fd053d39-33b0-444f-9515-a33d6e34790b  /mnt/GMEONE   ext4  defaults,nofail  0  2
 
-<img style="" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/misc/AUTOMOUNTDRIVE.png">
+# GMEBCKUP - Backup Drive
+UUID=adbdb4dc-b287-47e2-adfe-4c4f0ecd3e2a  /mnt/GMEBCKUP ext4  defaults,nofail  0  2
+```
+7. After saving the file, test before rebooting:
+```
+sudo mount -a
+```
 
 -----------------------------------------------------
 
