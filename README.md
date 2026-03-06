@@ -142,7 +142,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 - **Pacman**
 
-1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc corectrl mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
+1. `sudo pacman -S android-tools mpv vlc phonon-qt6-vlc lact mission-center fastfetch kio-admin prismlauncher gwenview partitionmanager qbittorrent`
 
 2. `sudo pacman -S --needed sof-firmware alsa-firmware alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber plasma-pa pavucontrol linux-firmware`
 
