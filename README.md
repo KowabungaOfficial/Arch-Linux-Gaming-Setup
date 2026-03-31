@@ -121,6 +121,14 @@ Include = /etc/pacman.d/mirrorlist
 2. `sudo systemctl enable bluetooth.service`
 3. `sudo systemctl start bluetooth.service`
 
+**Fix Most Bluetooth Issues:**
+
+1. Go to /boot/loader/entries/ and select your linux kernel config
+2. Add these lines to the end of the config: usbcore.autosuspend=-1 btusb.enable_autosuspend=0
+
+![Bluetooth Fix](https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/misc/BluetoothFix.png)
+
+
 -----------------------------------------------------
 
 <div align="center"><b>AUR (Yay)</b></div>
