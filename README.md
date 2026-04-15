@@ -133,7 +133,7 @@ Include = /etc/pacman.d/mirrorlist
 
 <div align="center"><b>AUR (Yay)</b></div>
 
-1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts wine-nine lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
+1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
 
 -----------------------------------------------------
 
