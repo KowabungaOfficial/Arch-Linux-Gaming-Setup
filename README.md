@@ -1,6 +1,9 @@
 # <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/ArchLinuxLogo.png"> Arch Linux Gaming Setup
+> [!WARNING]
+> DO NOT USE UNIFIED KERNEL IMAGES FOR THIS GUIDE
 
 > [!IMPORTANT]
+> 
 > Run These When Booting Into Desktop Environment (i.e. KDE)
 > 
 > (I Don't Include Feral Gamemode Because Of Performance Related Issues. i.e. Stutters & FPS Loss In Some Games)
