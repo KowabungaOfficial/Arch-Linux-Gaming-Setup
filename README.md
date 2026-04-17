@@ -1,6 +1,6 @@
 # <img style="width: 52px; height: 52px;" src="https://kowabungaofficial.github.io/Arch-Linux-Gaming-Setup/logos/ArchLinuxLogo.png"> Arch Linux Gaming Setup
 > [!WARNING]
-> THIS GUIDE DOES NOT USE UNIFIED KERNEL IMAGES (NON-UNIFIED WORK FINE AND IS THE TYPICAL KERNEL FORMAT)
+> THIS GUIDE DOES NOT USE UNIFIED KERNEL IMAGES (NON-UNIFIED WORKS FINE AND IS THE TYPICAL KERNEL FORMAT)
 
 > [!IMPORTANT]
 > 
