@@ -157,7 +157,7 @@ Select “Touchpad” and uncheck the box beside “Device enabled” at the top
 
 2. `sudo pacman -S --needed sof-firmware alsa-firmware alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber plasma-pa pavucontrol linux-firmware`
 
-3 (Laptops Only). `sudo pacman cups cups-pdf system-config-printer avahi nss-mdns hplip gutenprint foomatic-db foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds foomatic-db-engine foomatic-db-gutenprint-ppds splix cups-filters ghostscript gsfonts ipp-usb power-profiles-daemon`
+3 (Laptops Only). `sudo pacman -S cups cups-pdf system-config-printer avahi nss-mdns hplip gutenprint foomatic-db foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds foomatic-db-engine foomatic-db-gutenprint-ppds cups-filters ghostscript gsfonts ipp-usb power-profiles-daemon`
 
 **Enabling Arch Update addon:**
 1. `sudo pacman -S --needed pacman-contrib archlinux-contrib curl fakeroot htmlq diffutils hicolor-icon-theme python python-pyqt6 qt6-svg glib2`
