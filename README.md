@@ -140,7 +140,7 @@ Include = /etc/pacman.d/mirrorlist
    
 Fixes lib32-gstreamer issues:
 
-2. `gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D637032E45B8C6585B9456565D2EEE6F6F349D7C`
+2. `gpg --keyserver hkp://keyserver.ubuntu.com:443 --recv-keys D637032E45B8C6585B9456565D2EEE6F6F349D7C`
 
 -----------------------------------------------------
 
