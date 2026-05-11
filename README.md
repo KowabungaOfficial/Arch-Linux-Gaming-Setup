@@ -139,6 +139,7 @@ Include = /etc/pacman.d/mirrorlist
 1. `yay -S heroic-games-launcher-bin protonplus xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
    
 Fixes lib32-gstreamer issues:
+
 2. `gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D637032E45B8C6585B9456565D2EEE6F6F349D7C`
 
 -----------------------------------------------------
