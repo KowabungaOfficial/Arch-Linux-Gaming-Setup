@@ -151,7 +151,8 @@ Fixes lib32-gstreamer issues:
 Go to “Input & Output” in settings then clicked the tab “Mouse & Touchpad”. 
 Select “Touchpad” and uncheck the box beside “Device enabled” at the top. 
 
--PS5 not working in some games (use xinput method):
+- PS5 not working in some games (use xinput method):
+  
 PROTON_PREFER_SDL=1
 
 -----------------------------------------------------
