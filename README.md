@@ -94,6 +94,8 @@ sudo mount -a
 -----------------------------------------------------
 
 - **Final Step (Optional)**
+
+Edit pacman.conf in etc folder
   
 [Enables Color and Pacman Video Game Loading/Downloading Bar In Terminal]
 
