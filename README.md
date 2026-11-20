@@ -118,7 +118,7 @@ Edit pacman.conf in etc folder
 
 -----------------------------------------------------
 
-**Install and Enable Bluetooth:**
+**Install and Enable Bluetooth (Only If It's Not Already Active):**
 
 1. `sudo pacman -S bluedevil bluez bluez-utils qt6-connectivity`
 2. `sudo systemctl enable bluetooth.service`
