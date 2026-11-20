@@ -18,11 +18,16 @@
 4. `cd yay`
 5. `makepkg -si`
 -----------------------------------------------------
-- **Second Step (Backup Kernels)**
+- **Second Step (CachyOS Repo Install)**
+
+1. Follow these instructions here:
+   https://wiki.cachyos.org/features/optimized_repos/#adding-our-repositories-to-an-existing-arch-linux-install
+-----------------------------------------------------
+- **Third Step (Backup Kernels)**
 
 1. `sudo pacman -S linux-lts linux-lts-headers`
 -----------------------------------------------------
-- **Third Step**
+- **Fourth Step**
 
 **Install These (Enables CachyOS Kernel and Mesa Layers):**
 1. `yay -S linux-cachyos linux-cachyos-headers`
