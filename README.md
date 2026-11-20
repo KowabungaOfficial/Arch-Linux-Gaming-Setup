@@ -31,7 +31,7 @@
 - **Fourth Step**
 
 **Install These (Enables CachyOS Kernel and Mesa Layers):**
-1. `yay -S linux-cachyos linux-cachyos-headers`
+1. `sudo pacman -S linux-cachyos linux-cachyos-headers`
 2. `sudo pacman -S vulkan-mesa-layers lib32-vulkan-mesa-layers`
 
 **CachyOS Kernel Setup Guide:**
