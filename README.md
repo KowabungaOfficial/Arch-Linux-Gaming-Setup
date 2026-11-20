@@ -58,7 +58,7 @@ initrd  /initramfs-linux-cachyos.img
 `default arch-cachyos.conf`
 
 -----------------------------------------------------
-- **Fourth Step (No Password Automount HDD's/SSD's)**
+- **Fith Step (No Password Automount HDD's/SSD's)**
 
 >For when you have multiple game drives or other drives
 
