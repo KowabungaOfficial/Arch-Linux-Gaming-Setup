@@ -20,7 +20,7 @@
 -----------------------------------------------------
 - **Second Step (CachyOS Repo Install)**
 
-1. Follow these instructions here:
+1. Follow these instructions here (Use Automated):
    
    https://wiki.cachyos.org/features/optimized_repos/#adding-our-repositories-to-an-existing-arch-linux-install
 -----------------------------------------------------
