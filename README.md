@@ -93,20 +93,12 @@ sudo mount -a
 
 -----------------------------------------------------
 
-- **Final Step**
-
-1. Edit pacman.conf in `/etc/`
-2. Find the [multilib] section and remove the # from the two lines:
-```
-[multilib]
-Include = /etc/pacman.d/mirrorlist
-```
->(Optional Section) 
-
+- **Final Step (Optional)**
+  
 [Enables Color and Pacman Video Game Loading/Downloading Bar In Terminal]
 
-3. In Misc options section remove # before color
-4. Add ILoveCandy after CheckSpace
+1. In Misc options section remove # before color
+2. Add ILoveCandy after CheckSpace
 
 -----------------------------------------------------
 <div align="center"><b>Gaming Packages</b></div>
