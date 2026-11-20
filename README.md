@@ -21,6 +21,7 @@
 - **Second Step (CachyOS Repo Install)**
 
 1. Follow these instructions here:
+   
    https://wiki.cachyos.org/features/optimized_repos/#adding-our-repositories-to-an-existing-arch-linux-install
 -----------------------------------------------------
 - **Third Step (Backup Kernels)**
