@@ -77,7 +77,7 @@ Example:
 sudo chown joetech:joetech /mnt/GMEONE
 sudo chown joetech:joetech /mnt/GMEBCKUP
 ```
-6. As for # add it and you can name it to whatever you want to indentify the drive
+6. In fstab add this below everything. As for # add it and you can name it to whatever you want to indentify the drive
 ```
 Example:
 # GMEONE - Gaming NVMe SSD
