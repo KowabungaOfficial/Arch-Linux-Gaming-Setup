@@ -140,7 +140,7 @@ Edit pacman.conf in etc folder
 2. `yay -S xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts`
 3. `yay -S lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
    
-Fixes lib32-gstreamer issues:
+Fixes lib32-gstreamer issues (Only If You Have Issues):
 
 2. `gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys D637032E45B8C6585B9456565D2EEE6F6F349D7C`
 
