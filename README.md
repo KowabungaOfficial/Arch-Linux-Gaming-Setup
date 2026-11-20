@@ -136,7 +136,9 @@ Edit pacman.conf in etc folder
 
 <div align="center"><b>AUR (Yay)</b></div>
 
-1. `yay -S lib32-libxslt lib32-openal lib32-mpg123 lib32-giflib heroic-games-launcher-bin protonplus xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
+1. `yay -S lib32-libxslt lib32-openal lib32-mpg123 lib32-giflib heroic-games-launcher-bin protonplus`
+2. `yay -S xpadneo-dkms vkpost lib32-vkpost faudio python-glfw ttf-ms-fonts`
+3. `yay -S lib32-gstreamer lib32-gst-plugins-base lib32-gst-plugins-good lib32-gst-plugins-base-libs`
    
 Fixes lib32-gstreamer issues:
 
